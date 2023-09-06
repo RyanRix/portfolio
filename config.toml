@@ -1,4 +1,9 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = "Mike's Portfolio"
+title = "Jack's Portfolio"
 theme = "basic"
+[params]
+    author = "Jack Hughes"
+    description = "Jack's Portfolio Site"
+    gh_url = "https://api.github.com/users"
+    gh_user = "RyanRix"
