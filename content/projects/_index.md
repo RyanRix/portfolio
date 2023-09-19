@@ -2,6 +2,10 @@
 title: "Projects"
 draft: false
 description: "A list of Jack's projects."
+outputs:
+- HTML
+- JSON
+- RSS
 ---
 
 This is a list (page) of my pretend projects.

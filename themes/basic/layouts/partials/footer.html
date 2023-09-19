@@ -1,4 +1,9 @@
 <footer>
-    <small>Copyright {{ now.Format "2006" }} Me.</small>
+    <small>Copyright {{ now.Format "2006" }} {{ .Site.Params.author }}.</small>
+
+        {{ range .Site.Data.socialmedia.accounts }}
+            <a href="{{ .url }}">{{ .name }}</a>
+            {{ end }}
+  
 
 </footer>

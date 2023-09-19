@@ -1,3 +1,10 @@
+---
+Keywords: 
+- biography
+- projects
+- resume
+---
+
 This is my portfolio
 
 On this site, you'll find

@@ -5,6 +5,6 @@ draft: false
 layout: opensource
 ---
 
-My repositories on GitHub
+My public repositories on GitHub
 ___
 
