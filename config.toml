@@ -7,3 +7,12 @@ theme = "basic"
     description = "Jack's Portfolio Site"
     gh_url = "https://api.github.com/users"
     gh_user = "ryanrix"
+[permalinks]
+    posts = "posts/:year/:month/:slug"
+    year = "/posts/:slug/"
+    month = "/posts/:slug/"
+    [taxonomies]
+        year = "year"
+        month = "month"
+        tag = "tags"
+        category = "categories"
